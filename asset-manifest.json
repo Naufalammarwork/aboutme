@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88ec9732.css",
+    "main.js": "/static/js/main.b0ab399c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Muh_Naufal_Ammar_CV.pdf": "/static/media/Muh_Naufal_Ammar_CV.552575f47feec31b0796.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.0d4452dd34898f3efd5a896a9dedb197.svg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.99bf6a2f9f62249388a7.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.86e077fa4dcb73c0c8e2b2127d5f867d.svg",
+    "static/media/about.svg": "/static/media/about.a8359ff313b565b7d446c55f4b497303.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.88ec9732.css.map": "/static/css/main.88ec9732.css.map",
+    "main.b0ab399c.js.map": "/static/js/main.b0ab399c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ec9732.css",
+    "static/js/main.b0ab399c.js"
+  ]
+}
