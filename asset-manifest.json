@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aboutme/static/css/main.ea1da369.css",
-    "main.js": "/aboutme/static/js/main.56fbea34.js",
+    "main.js": "/aboutme/static/js/main.61945ede.js",
     "static/js/415.4d6acbeb.chunk.js": "/aboutme/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/aboutme/static/js/787.1ed0c42c.chunk.js",
     "static/media/Portofolio_Naufal.pdf": "/aboutme/static/media/Portofolio_Naufal.358898adf2667b3ea317.pdf",
@@ -13,12 +13,12 @@
     "static/media/about.svg": "/aboutme/static/media/about.a8359ff313b565b7d446c55f4b497303.svg",
     "index.html": "/aboutme/index.html",
     "main.ea1da369.css.map": "/aboutme/static/css/main.ea1da369.css.map",
-    "main.56fbea34.js.map": "/aboutme/static/js/main.56fbea34.js.map",
+    "main.61945ede.js.map": "/aboutme/static/js/main.61945ede.js.map",
     "415.4d6acbeb.chunk.js.map": "/aboutme/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/aboutme/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea1da369.css",
-    "static/js/main.56fbea34.js"
+    "static/js/main.61945ede.js"
   ]
 }
